@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
     "espacos"
-  ]
+  ],
+  "code-runner.ignoreSelection": true,
+  "code-runner.showExecutionMessage": false
 }
