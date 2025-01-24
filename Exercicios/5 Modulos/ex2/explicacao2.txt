@@ -1,0 +1,5 @@
+Crie um módulo conversor.py que possa ser executado tanto como script quanto importado como módulo. O módulo deve:
+
+Converter temperaturas entre Celsius e Fahrenheit
+Quando executado diretamente, solicitar input do usuário
+Quando importado, disponibilizar apenas as funções
