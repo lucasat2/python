@@ -1,0 +1,18 @@
+CONCEITOS  
+
+Type Checkers
+Análise Estática antes de executar
+bibliotecas são necessárias para rodar em tempo de execução
+inferência de tipos
+Subtipos 
+Atribuibilidade
+Anotação Manual
+Função Sem Retorno
+Uniao de tipos 
+Tipagem em listas tuplas e dicionários
+Tipo literal 
+
+
+
+
+
