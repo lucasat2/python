@@ -37,3 +37,5 @@ if __name__ == "__main__":
     print(f"{mouse} < {laptop}? {mouse < laptop}")  # True (50.00 < 3500.00)
     print(f"{mouse} == {mousepad}? {mouse == mousepad}")  # True (50.00 == 50.00)
     print(f"{pao} != {laptop}? {pao != laptop}") # True (8.50 != 3500.00)
+
+ 
