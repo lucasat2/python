@@ -1,0 +1,10 @@
+Crie a seguinte estrutura de diretórios e arquivos:
+
+main.py
+saudacoes/
+├── formal.py
+└── informal.py
+
+formal.py: Define uma função cumprimentar(nome) que imprime “Olá, Sr(a). {nome}!”.
+informal.py: Define uma função cumprimentar(nome) que imprime “E aí, {nome}!”.
+Em main.py, importe e use as funções cumprimentar de ambos os módulos do pacote saudacoes.

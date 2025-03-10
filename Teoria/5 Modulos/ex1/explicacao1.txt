@@ -1,0 +1,3 @@
+Você tem um arquivo formatador.py com funções para formatar textos (converter para maiúsculas, minúsculas, título).
+
+Crie dois programas diferentes (programa1.py e programa2.py) que utilizem estas funções importando-as de maneiras diferentes.
